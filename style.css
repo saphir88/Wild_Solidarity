@@ -1,3 +1,9 @@
 .container {
   padding-bottom: 40px;
 }
+
+iframe {
+   width: 600px;
+   height: 450px;
+   border: 0px;
+}
