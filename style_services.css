@@ -10,9 +10,6 @@ body {
   margin-top: -7px;
 }
 
-.title {
-
-}
 .navbar {
   font-size: 20px;
 }
@@ -81,7 +78,7 @@ i:hover {
   text-align: center;
 }
 
-table p {
+.table p {
   margin-top: 5vh;
   font-size: 2.5em;
   transform: rotate(-8deg);
