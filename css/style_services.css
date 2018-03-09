@@ -1,11 +1,7 @@
-body {
-  position: relative;
-}
- 
 h2 {
   text-align: center;
 }
- 
+
 h3 {
   color: #fba858;
 }
@@ -13,14 +9,14 @@ h3 {
 /*Tableau*/
 
 .table {
-  background: url("table.jpg");
+  background: url("https://image.noelshack.com/fichiers/2018/10/5/1520603614-table.jpg");
   background-size: cover;
   height: auto;
 
 }
 
 .post {
-  background: url("postit1.png");
+  background-image: url("https://image.noelshack.com/fichiers/2018/10/5/1520603621-postit1.png");
   background-size: cover;
   height: 300px;
   margin-top: 80px;
@@ -28,7 +24,7 @@ h3 {
 }
 
 .post2 {
-  background: url("postit2.png");
+  background: url("https://image.noelshack.com/fichiers/2018/10/5/1520603625-postit2.png");
   background-size: cover;
   height: 300px;
   margin-top: 50px;
@@ -44,15 +40,6 @@ h3 {
  /* --------Mode mobile------- */
 
  @media only screen and (max-width: 767px) {
-  .logo {
-    width: 40px;
-    margin-top: -7px;
-  }
-
-  .navbar-default .navbar-nav>li>a {
-    height:60px;
-    padding-top:20px;
-  }
 
   .table {
     background: none;
