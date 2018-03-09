@@ -34,7 +34,7 @@ h1 {
   padding-top:35px;
 }
 
-.navbar-default .navbar-nav>li>a:hover {
+.collapse .navbar-nav>li>a:hover {
   background-color: #eeeeee;
 }
 
