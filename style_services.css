@@ -20,7 +20,7 @@ h3 {
 }
 
 .post {
-  background: url("post_jaune.png");
+  background: url("postit1.png");
   background-size: cover;
   height: 300px;
   margin-top: 80px;
@@ -28,7 +28,7 @@ h3 {
 }
 
 .post2 {
-  background: url("post_bleu.png");
+  background: url("postit2.png");
   background-size: cover;
   height: 300px;
   margin-top: 50px;
