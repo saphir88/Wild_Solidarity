@@ -2,12 +2,10 @@
 body {
   font-family: 'Roboto', sans-serif;
   padding-top: 120px;
-  margin-bottom: 100px;
 }
 
 html {
   position:relative;
-  min-height: 100%;
 }
 
 h1 {
@@ -36,7 +34,7 @@ h1 {
   padding-top:35px;
 }
 
-.navbar-default .navbar-nav>li>a:hover {
+.collapse .navbar-nav>li>a:hover {
   background-color: #eeeeee;
 }
 
@@ -61,11 +59,11 @@ h1 {
 /*Footer*/
 footer {
     position: absolute;
+    padding-bottom: 0px;
     width: 100%;
     height: 140px;
     background: #35383a;
     text-align: center;
-    bottom:0;
 }
 
 footer p {
