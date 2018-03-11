@@ -1,0 +1,35 @@
+/*Titres*/
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    color: #fba858;
+}
+
+/*Images*/
+
+.calendar {
+    height: 130px;
+}
+
+.photo {
+    width: 150px;
+}
+
+/*Section évènements*/
+section {
+    padding-bottom: 70px;
+}
+
+/*Version mobile page Evenements*/
+
+@media screen and (max-width: 767px) {
+    section {
+        padding-bottom: 200px;
+        display: block;
+        margin: auto;
+        width: 80%;
+        text-align: center;
+    }
