@@ -18,20 +18,18 @@ h3 {
     width: 150px;
 }
 
+/*Section évènements*/
+section {
+    padding-bottom: 70px;
+}
 
 /*Version mobile page Evenements*/
 
 @media screen and (max-width: 767px) {
-    body {
-        padding-top: 30px;
-    }
     section {
+        padding-bottom: 200px;
         display: block;
         margin: auto;
         width: 80%;
         text-align: center;
     }
-    footer p {
-        text-align: justify;
-    }
-}

@@ -16,18 +16,12 @@ h1 {
 
 /* Header */
 .logo {
-  width: 80px;
-  margin-top: -7px;
+  height: 80px;
+  margin-top: -10px;
 }
 
 .navbar {
   font-size: 20px;
-}
-
-.navbar-text {
-  padding-top:10px;
-  font-size: 30px;
-  font-weight: bold;
 }
 
 .navbar-default .navbar-nav>li>a {
@@ -42,8 +36,8 @@ h1 {
 
 @media only screen and (max-width: 767px) {
   .logo {
-    width: 40px;
-    margin-top: -7px;
+    height: 40px;
+    margin-top: -10px;
   }
 
   .navbar-text {
