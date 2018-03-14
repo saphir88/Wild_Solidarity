@@ -35,6 +35,12 @@ h1 {
 }
 
 @media only screen and (max-width: 767px) {
+
+body {
+      padding-top: 80px;
+      padding-bottom: 200px;
+    }
+
   .logo {
     height: 40px;
     margin-top: -10px;
