@@ -27,6 +27,18 @@ h3 {
   color: #fba858;
 }
 
+.contactUs{
+  text-align: center;
+}
+
+.contactUs a{
+  color: #fba858;
+}
+
+.contactUs a:hover{
+   color: #fba858
+}
+
 /*Tableau*/
 
 .postit{
