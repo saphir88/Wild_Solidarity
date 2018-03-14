@@ -55,15 +55,6 @@ h3 {
  }
 
  @media only screen and (max-width: 767px) {
-  .logo {
-    width: 40px;
-    margin-top: -7px;
-  }
-
-  .navbar-default .navbar-nav>li>a {
-    height:60px;
-    padding-top:20px;
-  }
 
   .table p {
       top: 25%;
