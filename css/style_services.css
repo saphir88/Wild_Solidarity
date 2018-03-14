@@ -21,12 +21,6 @@ h3 {
 
 /*Tableau*/
 
-.table {
-  background: url("../pictures/table.jpg");
-  background-size: cover;
-  margin: auto;
-}
-
 .postit{
   width: 100%;
   margin-top: 30px;
@@ -40,18 +34,33 @@ h3 {
   font-family: 'cac_champagneregular';
   z-index: 1;
   position: absolute;
-  top: 30%;
-  left: 20%;
+  top: 20%;
+  left: 25%;
   right: 25%;
-  font-size: 40px;
+  font-size: 2.5vw;
   text-align: center;
   transform: rotate(-8deg);
 }
 
  /* --------Mode mobile------- */
- 
  @media only screen and (max-width: 992px) {
-   .table {
+    .table {
      background: none;
    }
+
+    .table p {
+      top: 25%;
+      font-size: 3vw;
+    }
  }
+
+ @media only screen and (max-width: 767px) {
+
+  .table p {
+      top: 25%;
+      font-size: 9vw;
+    }
+
+ }
+
+
