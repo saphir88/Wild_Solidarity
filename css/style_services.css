@@ -1,21 +1,16 @@
 @font-face {
-    font-family: 'cac_champagneregular';
-    src: url('../cac_champagne-webfont.eot');
-    src: url('../cac_champagne-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../cac_champagne-webfont.woff2') format('woff2'),
-         url('../cac_champagne-webfont.woff') format('woff'),
-         url('../cac_champagne-webfont.ttf') format('truetype'),
-         url('../cac_champagne-webfont.svg#cac_champagneregular') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
+  font-family: 'cac_champagneregular';
+  src: url('../cac_champagne-webfont.eot');
+  src: url('../cac_champagne-webfont.eot?#iefix') format('embedded-opentype'), url('../cac_champagne-webfont.woff2') format('woff2'), url('../cac_champagne-webfont.woff') format('woff'), url('../cac_champagne-webfont.ttf') format('truetype'), url('../cac_champagne-webfont.svg#cac_champagneregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
 }
 
-a{
-  color: black;  
+a {
+  color: black;
 }
 
-a:hover{
+a:hover {
   color: black;
 }
 
@@ -27,28 +22,27 @@ h3 {
   color: #fba858;
 }
 
-.contactUs{
+.contactUs {
   text-align: center;
 }
 
-.contactUs a{
+.contactUs a {
   color: #fba858;
 }
 
-.contactUs a:hover{
-   color: #fba858
+.contactUs a:hover {
+  color: #fba858
 }
 
 /*Tableau*/
 
-.postit{
+.postit {
   width: 100%;
   margin-top: 30px;
   max-width: 100%;
   height: auto;
   position: relative;
 }
-
 
 .table p {
   font-family: 'cac_champagneregular';
@@ -62,25 +56,21 @@ h3 {
   transform: rotate(-8deg);
 }
 
- /* --------Mode mobile------- */
- @media only screen and (max-width: 992px) {
-    .table {
-     background: none;
-   }
+/* --------Mode mobile------- */
 
-    .table p {
-      top: 25%;
-      font-size: 3vw;
-    }
- }
-
- @media only screen and (max-width: 767px) {
-
+@media only screen and (max-width: 992px) {
+  .table {
+    background: none;
+  }
   .table p {
-      top: 25%;
-      font-size: 9vw;
-    }
+    top: 25%;
+    font-size: 3vw;
+  }
+}
 
- }
-
-
+@media only screen and (max-width: 767px) {
+  .table p {
+    top: 25%;
+    font-size: 9vw;
+  }
+}

@@ -1,47 +1,47 @@
 /*Titres*/
 
 h2 {
-    text-align: center;
+  text-align: center;
 }
 
 h3 {
-    color: #fba858;
+  color: #fba858;
 }
 
 /*Images*/
 
 .calendar {
-    height: 130px;
+  height: 130px;
 }
 
 .photo {
-    width: 150px;
+  width: 150px;
 }
 
 /*Section évènements*/
+
 section {
-    padding-bottom: 70px;
-    text-align: justify;
+  padding-bottom: 70px;
+  text-align: justify;
 }
 
 hr {
-    border-color : #D8D8D8;
-    margin-left:auto;
-    margin-right:auto;
-    width:85%;
+  border-color: #D8D8D8;
+  margin-left: auto;
+  margin-right: auto;
+  width: 85%;
 }
 
 /*Version mobile page Evenements*/
 
 @media screen and (max-width: 767px) {
-    section {
-        display: block;
-        margin: auto;
-        width: 80%;
-        text-align: center;
-    }
-
-    .photo {
-        padding-top: 20px;
-        padding-bottom: 10px;
-    }
+  section {
+    display: block;
+    margin: auto;
+    width: 80%;
+    text-align: center;
+  }
+  .photo {
+    padding-top: 20px;
+    padding-bottom: 10px;
+  }
