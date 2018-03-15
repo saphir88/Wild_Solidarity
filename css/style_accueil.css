@@ -1,19 +1,10 @@
-.moitié{
-  width: 50%;
+/*.width-max .left{
+  width-max: 50%;
+  float: left;
+  position:relative;
 }
-
-h2 {
- text-align: center;
-}
-
-h3 {
- color: #fba858;
-}
-
-#carousel-example-generic{
-  margin:auto;
-}
-
-.padd{
-  padding:10px;
-}
+.width-max .right{
+  width-max: 50%;
+  float: right;
+  position:relative;
+}*/
