@@ -21,15 +21,27 @@ h3 {
 /*Section évènements*/
 section {
     padding-bottom: 70px;
+    text-align: justify;
+}
+
+hr {
+    border-color : #D8D8D8;
+    margin-left:auto;
+    margin-right:auto;
+    width:85%;
 }
 
 /*Version mobile page Evenements*/
 
 @media screen and (max-width: 767px) {
     section {
-        padding-bottom: 200px;
         display: block;
         margin: auto;
         width: 80%;
         text-align: center;
+    }
+
+    .photo {
+        padding-top: 20px;
+        padding-bottom: 10px;
     }
