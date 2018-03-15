@@ -3,7 +3,8 @@ body {
 background-image: linear-gradient(to right, #D8D8D8 -30%,#ffffff 20%,#ffffff 80%,#D8D8D8 130%);
   font-family: 'Roboto', sans-serif;
   padding-top: 120px;
-  margin-bottom: 100px;
+  padding-bottom: 100px;
+
 }
 
 html {
