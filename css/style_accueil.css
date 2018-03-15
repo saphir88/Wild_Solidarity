@@ -1,35 +1,35 @@
 .img {
-    width: 18.8vw;
-    display: block;
-   margin-left: auto;
-   margin-right: auto;
+  width: 17.8vw;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .slider {
-      width: 100%;
+  width: 100%;
 }
 
 .texte {
-    text-align: justify;
+  text-align: justify;
 }
 
 .carousel-caption {
-    font-size: 2vw;
+  font-size: 2vw;
 }
 
 @media screen and (max-width: 767px) {
-    section {
-        padding-bottom: 110px;
-        display: block;
-        margin: auto;
-    }
-
-.img {
+  section {
+    padding-bottom: 110px;
+    display: block;
+    margin: auto;
+  }
+  .carousel-caption {
+    display: none;
+  }
+  .img {
     width: 39vw;
-}
-
-.les_images {
+  }
+  .les_images {
     padding-top: 30px;
-}
-
+  }
 }
