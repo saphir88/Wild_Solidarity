@@ -1,5 +1,3 @@
-# [Wild Solidarity](https://github.com/saphir88/Wild_Solidarity)
-
 ![Logo WildSolidarity](https://raw.githubusercontent.com/saphir88/Wild_Solidarity/master/pictures/logosanstexte.png)
 
 Premier projet fictif de la Wild Code School.
@@ -19,3 +17,5 @@ Ce projet a été créé par 4 élèves de la Wild Code School :
 * [Thomas](https://github.com/saphir88/)
 * [Cyril](https://github.com/m0rsak)
 * [Aurélien](https://github.com/atomik67200)
+
+### [Lien vers le dépot Github](https://github.com/saphir88/Wild_Solidarity)
