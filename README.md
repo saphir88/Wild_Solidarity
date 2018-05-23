@@ -1,9 +1,8 @@
 # [Wild Solidarity](https://github.com/saphir88/Wild_Solidarity)
 
-Premier projet fictif de la Wild Code School.
-
 ![Logo WildSolidarity](https://raw.githubusercontent.com/saphir88/Wild_Solidarity/master/pictures/logosanstexte.png)
 
+Premier projet fictif de la Wild Code School.
 
 ## Le projet :
 Création d'un site de partage de services collaboratif entre les membres de l'association Wild Solidarity.
@@ -15,7 +14,7 @@ Un site statique vitrine de quelques pages, avec, au minimum, une page d'accueil
 Nous travaillons en méthodologies agiles (SCRUM) ce qui requiert des rendez-vous réguliers avec le client (a la fin de chaque sprint)
 
 ## Créateurs :
-Ce Projet a été créé par 4 élèves de la Wild Code School :
+Ce projet a été créé par 4 élèves de la Wild Code School :
 * [Tiffany](https://github.com/tiffaanym)
 * [Thomas](https://github.com/saphir88/)
 * [Cyril](https://github.com/m0rsak)
