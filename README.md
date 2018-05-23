@@ -1,7 +1,5 @@
 ![Logo WildSolidarity](https://raw.githubusercontent.com/saphir88/Wild_Solidarity/master/pictures/logosanstexte.png)
 
-Premier projet fictif de la Wild Code School.
-
 ## Le projet :
 Création d'un site de partage de services collaboratif entre les membres de l'association Wild Solidarity.
 
